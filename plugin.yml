@@ -1,0 +1,6 @@
+name: PlayerBio
+description: Allows users to talk about themselves to the public in one command.
+author: Friendship
+main: Friendship\PlayerBio\Main
+version: 1.0.0
+api: 1.14.0
